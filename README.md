@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Ashish Jangir. Senior Data Analyst with 6+ years of experience transforming raw data into actionable insights for global companies across industries like financial services, insurance, and consulting. My passion lies in solving complex business problems using Python, SQL, ETL Tools, Excel and data visualization tools like Power BI and Tableau.
+
+When I'm not crunching numbers, you'll find me exploring the latest trends in machine learning, data science, and business intelligence.
+
+Feel free to check out my projects and let's connect to collaborate on exciting data initiatives!
+
 <!--
 **ajangir45/ajangir45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
